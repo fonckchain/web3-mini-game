@@ -4,7 +4,7 @@ Welcome to the Crypto Adventure Mini Game! This is an interactive, blockchain-th
 
 ## How to Play
 
-To play the game, simply visit our [GitHub Pages site](https://<fonckchain>.github.io/web3-mini-game/).
+To play the game, simply visit my [GitHub Pages site](https://fonckchain.github.io/web3-mini-game/).
 
 You'll be presented with a scenario and a set of choices. Click on the choice you want to make, and the story will progress based on your decision.
 
